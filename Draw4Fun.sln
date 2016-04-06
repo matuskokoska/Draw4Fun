@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draw4Fun - client", "Draw4Fun - client\Draw4Fun - client.csproj", "{C44D7C28-7750-4080-928B-73CD5B0BDDAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draw4fun", "Draw4fun\Draw4fun.csproj", "{947D5D6E-1BBE-4C0C-A423-8291150CBA52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C44D7C28-7750-4080-928B-73CD5B0BDDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C44D7C28-7750-4080-928B-73CD5B0BDDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C44D7C28-7750-4080-928B-73CD5B0BDDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C44D7C28-7750-4080-928B-73CD5B0BDDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947D5D6E-1BBE-4C0C-A423-8291150CBA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947D5D6E-1BBE-4C0C-A423-8291150CBA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947D5D6E-1BBE-4C0C-A423-8291150CBA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947D5D6E-1BBE-4C0C-A423-8291150CBA52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
